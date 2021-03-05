@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://garciajordy.github.io/NewsWeek-Project/)
+[Live Demo Link](https://garciajordy.github.io/Mastermind/)
 
 ## Instructions
 To get a local copy up and running follow these simple example steps.
